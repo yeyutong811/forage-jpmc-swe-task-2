@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@finos/perspective": "^1.6.2",
-    "@finos/perspective-viewer": "^1.6.2",
+    "@finos/perspective-viewer": "^1.9.4",
     "@finos/perspective-viewer-d3fc": "^1.6.2",
     "@finos/perspective-viewer-datagrid": "^1.6.2",
     "@types/jest": "^23.3.13",
